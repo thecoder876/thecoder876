@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/thecoder876?label=Followers&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/thecoder876?label=Followers&style=social)](https://github.com/thecoder876)
 
-![Discord](https://img.shields.io/discord/790654326804316221?label=Discord&logo=Discord&style=social)
+[![Discord](https://img.shields.io/discord/790654326804316221?label=Discord&logo=Discord&style=social)](https://discord.gg/axqqTWyezJ)
 
 - 🔭 I’m currently working on Scratch projects and App Inventor apps
 - 🌱 I’m currently learning French
