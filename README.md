@@ -2,7 +2,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/thecoder876?label=Followers&style=flat)
 [![Discord](https://img.shields.io/discord/790654326804316221?label=Discord&logo=Discord&style=flat)](https://discord.gg/axqqTWyezJ "Join my Discord server")
-[![Latest SimpleEdit Video Views](https://img.shields.io/youtube/views/BozEx1bMWtQ?label=Latest%20SimpleEdit%20video%20views&logo=youtube&style=flat)](https://youtu.be/BozEx1bMWtQ "Watch the latest SimpleEdit video")
+[![Reddit karma](https://img.shields.io/reddit/user-karma/combined/theredditor876?label=Reddit%20karma&logo=reddit)](https://www.reddit.com/user/theredditor876/ "Visit my Reddit profile")
+[![Website](https://img.shields.io/badge/Website-thecoder876.github.io-blue)](https://thecoder876.github.io "Visit my website")
+[![Blog](https://img.shields.io/badge/Blog-thecoder876.blogspot.com-blue)](https://thecoder876.blogspot.com "Visit my blog")
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thecoder876)
 
