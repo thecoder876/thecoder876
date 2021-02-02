@@ -8,6 +8,8 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thecoder876)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=thecoder876)
+
 - 🔭 I’m currently working on Scratch projects and App Inventor apps
 - 🌱 I’m currently learning French
 - 💬 Ask me about Blocky or HTML
