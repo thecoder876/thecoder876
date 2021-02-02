@@ -8,7 +8,9 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thecoder876)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thecoder876)
+![Stats](https://github-readme-stats.vercel.app/api?username=thecoder876&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecoder876&theme=dark&count_private=true)
 
 - 🔭 I’m currently working on Scratch projects and App Inventor apps
 - 🌱 I’m currently learning French
