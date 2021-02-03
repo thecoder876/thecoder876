@@ -16,4 +16,4 @@
 - 🌱 I’m currently learning French
 - 💬 Ask me about Blocky or HTML
 
-_**Note:** I do not own the Scratch Addons and SimpleEdit repo or organisation._
+_**Note:** I do not own the SimpleEdit repo or organisation. I am just a member and contributor._
