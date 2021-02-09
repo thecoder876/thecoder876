@@ -9,7 +9,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thecoder876&theme=darkhub)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thecoder876&theme=dark&count_private=true&custom_title=Stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=thecoder876&theme=dark&custom_title=Stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecoder876&theme=dark&count_private=true&custom_title=Top%20Languages)
 
