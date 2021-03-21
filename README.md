@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/discord/790654326804316221?label=discord&logo=Discord&style=flat)](https://discord.gg/axqqTWyezJ "Join my Discord server")
 [![Gitter](https://badges.gitter.im/thecoder876/community.svg)](https://gitter.im/thecoder876/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge "Join my Gitter community")
 [![Reddit karma](https://img.shields.io/reddit/user-karma/combined/theredditor876?label=reddit%20karma&logo=reddit)](https://www.reddit.com/user/theredditor876/ "Visit my Reddit profile")
+[![Twitch status](https://img.shields.io/twitch/status/thecoder876?logo=twitch)](https://twitch.tv/thecoder876)
 [![Website](https://img.shields.io/badge/website-thecoder876.github.io-blue)](https://thecoder876.github.io "Visit my website")
 [![Blog](https://img.shields.io/badge/blog-thecoder876.blogspot.com-blue)](https://thecoder876.blogspot.com "Visit my blog")
 
