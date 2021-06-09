@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/thecoder876?label=followers&style=flat)
-[![Discord](https://img.shields.io/discord/790654326804316221?label=discord&logo=Discord&style=flat)](https://discord.gg/c5zstZ6qNz)
-[![Twitch status](https://img.shields.io/twitch/status/thecoder876?logo=twitch)](https://twitch.tv/thecoder876)
-[![Website](https://img.shields.io/badge/website-thecoder876.github.io-blue)](https://thecrewmate876.github.io "Visit my website")
-[![Blog](https://img.shields.io/badge/blog-thecoder876.blogspot.com-blue)](https://thecrewmate876.blogspot.com "Visit my blog")
+![GitHub followers](https://img.shields.io/github/followers/thecrewmate876?label=Followers&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/844604092894675027?label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/c5zstZ6qNz)
+[![Twitch status](https://img.shields.io/twitch/status/thecrewmate876?logo=twitch&style=for-the-badge)](https://twitch.tv/thecrewmate876)
+[![Website](https://img.shields.io/badge/website-thecrewmate.github.io-blue)](https://thecrewmate876.github.io)
+[![Blog](https://img.shields.io/badge/blog-thecoder876.blogspot.com-blue)](https://thecrewmate876.blogspot.com)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thecrewmate876&theme=darkhub)
 
@@ -14,4 +14,3 @@
 
 - 🔭 I’m currently working on Scratch projects and App Inventor apps
 - 💬 Ask me about Blocky or HTML
-- 
